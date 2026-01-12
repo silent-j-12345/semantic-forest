@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "rock-paper-scissors"
+version = "0.1.0"
+description = ""
+authors = ["jamespearce12345 <james.pearce@15gifts.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.97.1"
+requests = "^2.32.4"
+opencv-python = "^4.12.0.88"
+ultralytics = "^8.3.170"
+huggingface-hub = "^0.34.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
