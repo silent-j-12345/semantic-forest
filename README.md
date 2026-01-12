@@ -82,7 +82,7 @@ This project uses environment variables for sensitive data (API keys, DB credent
 
 ## 🏃‍♂️ Usage
 
-There are two ways to run scripts with Poetry:
+To run scripts with Poetry:
 
 ### How to run the scripts using `poetry run`
 You can prefix your python commands with `poetry run`. This ensures the script runs inside the virtual environment.
